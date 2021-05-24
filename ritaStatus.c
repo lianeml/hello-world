@@ -3,7 +3,7 @@
 
 int main(){
 
-  printf("rita fofinha está na janela\n");
+  printf("rita fofinha está na caixinha\n");
 
 
 
